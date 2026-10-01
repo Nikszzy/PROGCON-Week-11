@@ -22,7 +22,7 @@ def computeAverage(numbers):
     return total / count
 
 # Main
-numbers = [0] * (10)
+numbers = [0] * count
 
 print("Hey there! This program displays the average of the numbers you input.")
 print("How many numbers do you need the program to average?")
